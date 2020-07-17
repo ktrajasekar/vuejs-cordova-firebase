@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "472146000498",
+    "firebase_url": "https://ucha-cordova.firebaseio.com",
+    "project_id": "ucha-cordova",
+    "storage_bucket": "ucha-cordova.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472146000498:android:21aed57747e40d9e49e0eb",
+        "android_client_info": {
+          "package_name": "io.cordova.cas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472146000498-j62qhhotti58n09hk7so8l4f7t4ajhnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZSfNIzl9x7ZCV-kFQyeYW4Reiv5B2bu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472146000498-j62qhhotti58n09hk7so8l4f7t4ajhnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
