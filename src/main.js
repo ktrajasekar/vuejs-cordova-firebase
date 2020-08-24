@@ -15,7 +15,6 @@ Vue.use(BootstrapVue);
 // var VueCordovaDevice = require("vue-cordova-device");
 // Vue.use(VueCordovaDevice);
 
-axios.defaults.baseURL = "http://3.14.103.48:8080/api/";
 
 
 const init = () => {
